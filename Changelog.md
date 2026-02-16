@@ -4,7 +4,7 @@
 
 ### Allgemeines
 - Bessere Anzeige der Passwortregeln bei der Account-Erstellung
-- "Rasse hinzufügen" über Einstellungen verbessert
+- Fehler bei "Rasse hinzufügen" über Einstellungen ausgebessert
 
 ### Telemedizin
 - Anpassung Push-Benachrichtigungen bei Nachrichten
