@@ -1,6 +1,6 @@
 # Änderungsprotokoll
 
-# **1.140** (2026-02-XX)
+# **1.140** (2026-02-16)
 
 ### Allgemeines
 - Bessere Anzeige der Passwortregeln bei der Account-Erstellung
