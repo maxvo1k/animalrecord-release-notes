@@ -1,5 +1,13 @@
 # Änderungsprotokoll
 
+# **1.141** (2026-02-XX)
+
+### Allgemeines
+- Terminkalender mit wichtigen zukünftigen Veranstaltungen
+
+### Telemedizin
+- Verbesserte Sortierung der Chat-Übersicht
+
 # **1.140** (2026-02-16)
 
 ### Allgemeines
