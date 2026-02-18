@@ -3,7 +3,8 @@
 # **1.141** (2026-02-XX)
 
 ### Allgemeines
-- Terminkalender mit wichtigen zukünftigen Veranstaltungen
+- Terminkalender mit wichtigen zukünftigen Veranstaltungen, Möglichkeit zum Speichern im Handy-Kalender (Erreichbar über Dashboard)
+- Fehler bei "Tierart hinzufügen" über Einstellungen ausgebessert
 
 ### Telemedizin
 - Verbesserte Sortierung der Chat-Übersicht
