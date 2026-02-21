@@ -8,6 +8,8 @@
 
 ### Telemedizin
 - Verbesserte Sortierung der Chat-Übersicht
+- Bessere Nachrichten-Anzeige bei neuer Nachricht
+- Überprüfung auf neue Nachrichten
 
 # **1.140** (2026-02-16)
 
