@@ -1,6 +1,6 @@
 # Änderungsprotokoll
 
-# **1.141** (2026-02-XX)
+# **1.141** (2026-02-21)
 
 ### Allgemeines
 - Terminkalender mit wichtigen zukünftigen Veranstaltungen, Möglichkeit zum Speichern im Handy-Kalender (Erreichbar über Dashboard)
